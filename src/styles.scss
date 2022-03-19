@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+@import "~ng-zorro-antd/ng-zorro-antd.css";
+.wrapper {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+
+
+// input.form-control,input.form-control:focus,button,button:focus {
+//   box-shadow: none;
+//  -webkit-box-shadow: none;
+//  -moz-box-shadow: none;
+// }
+
