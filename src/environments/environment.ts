@@ -4,9 +4,10 @@
 
 export const environment = {
   production: false,
-  pathApi: 'http://epicode.online/epicodebeservice_v2',
-  adminToken: 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTY0NjgxNjAxMCwiZXhwIjoxNjQ3NjgwMDEwfQ.awLGzOVn2lxr6moJO2fwdDVYpxrlqNYMJS6jBIaBw4yACxhywW0XfMcAZIWpwe6xo1Bj_8Z5LJcY7mRhAwPTBw',
-  tenant: 'fe_0721a'
+  pathApi: "http://epicode.online/epicodebeservice_v2",
+  adminToken:
+    "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTY0OTg1OTA2NywiZXhwIjoxNjUyMDA2NTUxfQ.NHq0u9QOpiDzPLicuTIRaFKK-Fupuu5sSBvaP-u6b6HKnkvOm-iERow-eYWDvVbcWFyFGHRh6TV5KLXyog_kJQ",
+  tenant: "fe_0721a",
 };
 
 /*
